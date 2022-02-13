@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import { auth } from "../firebase";
-import "./SignupScreen.css";
+import "./SingupScreen.css";
 
 function SignupScreen() {
   const emailRef = useRef(null);
